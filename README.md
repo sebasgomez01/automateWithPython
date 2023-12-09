@@ -8,8 +8,8 @@ This repo contains personal projects of automation with Python
     * How to use?
     Move the script.py file to the directory that do you want to organize, and then with the terminal go to that directory and execute the command:
 
-      - In Windows
+      - In Windows:
         py script.py
 
-      - In Linux/Mac OS
+      - In Linux/Mac OS:
         python script.py
