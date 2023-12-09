@@ -1,7 +1,7 @@
 # automateWithPython
 This repo contains personal projects of automation with Python
 
-* Descrition:
+* Description:
 * 
 - script.py: This program organizes the files of a directory by format, creating a subdirectory with the name of the extension file and moving the file to that diretory.
 
